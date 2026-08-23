@@ -2,9 +2,7 @@
 
 A small Express API for tracking expenses, backed by a flat JSON file instead of a database.
 
-**Repository:** https://github.com/theshoxjaxon/backend
-
-> This folder isn't committed to that repo yet (`git status` shows it as untracked) — the link is where it belongs once you push it.
+**Repository:** https://github.com/theshoxjaxon/Finance-Track
 
 ## Tech stack
 
