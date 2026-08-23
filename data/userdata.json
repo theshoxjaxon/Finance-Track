@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "64a2f6a1e4b0a1b2c3d4e5f2",
+    "userId": "64a2f5c8e4b0a1b2c3d4e5f1",
+    "description": "Lunch",
+    "amount": 20,
+    "category": "Food",
+    "date": "2026-08-06T12:30:00.000Z"
+  },
+  {
+    "_id": "64a2f6a1e4b0a1b2c3d4e5f3",
+    "userId": "64a2f5c8e4b0a1b2c3d4e5f1",
+    "description": "Dinner",
+    "amount": 10,
+    "category": "Food",
+    "date": "2026-08-06T19:45:00.000Z"
+  },
+  {
+    "_id": "64a2f6a1e4b0a1b2c3d4e5f4",
+    "userId": "64a2f5c8e4b0a1b2c3d4e5f1",
+    "description": "Monthly Subscriptions",
+    "amount": 15.99,
+    "category": "Entertainment",
+    "date": "2026-08-10T08:00:00.000Z"
+  },
+  {
+    "_id": "64a2f6a1e4b0a1b2c3d4e5f5",
+    "userId": "64a2f5c8e4b0a1b2c3d4e5f1",
+    "description": "Bus pass",
+    "amount": 45,
+    "category": "Transport",
+    "date": "2026-08-01T07:15:00.000Z"
+  },
+  {
+    "id": "0406f7f1-eaf8-49f2-a26a-65fe58ebeba7",
+    "name": "Sean"
+  },
+  {
+    "id": "76d420fc-b5c0-46bd-be3c-4aeb82d8d665",
+    "name": "Jhon Doe"
+  },
+  {
+    "id": "72c6ced8-435b-4e27-83f5-6d0aa94a4192",
+    "name": "Jhon Doe"
+  },
+  {
+    "id": "8634f939-2f18-4f64-8731-da930db3755f",
+    "name": "Jhon Doe"
+  },
+  {
+    "id": "a0560806-710c-45d1-9317-598bedfd21f2",
+    "name": "Jhon Doe"
+  },
+  {
+    "id": "476a931b-2c41-4133-ad3a-71a53dc22928",
+    "name": "Jhon Doe"
+  }
+]
